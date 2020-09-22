@@ -1,0 +1,2 @@
+Place the Biblio.mdb file in the same directory. And then run it.
+ Biblio.mdb can be found on Visual Basic's directory
